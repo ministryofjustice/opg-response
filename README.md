@@ -1,8 +1,4 @@
-[![PyPI](https://img.shields.io/pypi/v/django-incident-response.svg)](https://pypi.org/project/django-incident-response/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django-incident-response.svg)](https://docs.python.org/3/)
-[![PyPI - Django Version](https://img.shields.io/pypi/djversions/django-incident-response.svg)](https://docs.djangoproject.com/en/2.2/)
-[![Travis (.org)](https://img.shields.io/travis/monzo/response.svg)](https://travis-ci.org/monzo/response)
-[![GitHub](https://img.shields.io/github/license/monzo/response.svg)](https://choosealicense.com/licenses/mit/)
+Note : This is a fork to add Django 3.2 compatibility.
 
 # Response ⚡
 
