@@ -17,8 +17,7 @@ INSTALL_REQUIRES = [
     "jsonfield>=2.0.2",
     "markdown2>=2.3.7",
     "python-slugify>=1.2.6",
-    "slackclient>=1.3,<2",
-    "statuspageio>=0.0.1",
+    "slackclient>=1.3,<2"
 ]
 
 # allow setup.py to be run from any path
