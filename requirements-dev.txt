@@ -1,6 +1,6 @@
 -e ./
 # Testing
-pytest==5.0.1
+pytest==6.2.5
 pytest-django==3.5.1
 pytest-env==0.6.2
 pytest-pythonpath==0.7.3
@@ -9,7 +9,7 @@ pytest-watch==4.2.0
 pytest-randomly==3.1.0
 factory-boy>=3.0.0
 faker>=2.0.0
-psycopg2-binary==2.8.2
+psycopg2-binary==2.9.9
 
 # Linting
 flake8==3.8.2
