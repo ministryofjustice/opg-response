@@ -1,4 +1,4 @@
-Note : This is a fork to add Django 3.2 compatibility.
+Note : This is a fork to add Django 4.2 and Python >3.10 compatibility .
 
 # Response ⚡
 
@@ -12,6 +12,15 @@ Dealing with incidents can be stressful. On top of dealing with the issue at han
 If you're interested in how we use this tool at Monzo, there's an overview in [this video](https://twitter.com/evnsio/status/1116026261401247745).
 
 ---
+
+# Local dev
+
+Run the tests in docker using
+
+```
+docker build . -t response:test
+docker run -it
+```
 
 # Try it out
 

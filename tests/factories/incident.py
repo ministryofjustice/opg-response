@@ -21,6 +21,7 @@ class CommsChannelFactory(factory.django.DjangoModelFactory):
 class IncidentFactory(factory.django.DjangoModelFactory):
     class Meta:
         model = Incident
+        skip_postgeneration_save=True
 
     impact = factory.LazyFunction(
         lambda: faker.paragraph(nb_sentences=1, variable_nb_sentences=True)

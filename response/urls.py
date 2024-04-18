@@ -1,4 +1,4 @@
-from django.core.urls import include, path
+from django.urls import include, path
 
 urlpatterns = (
     path("", include("response.core.urls")),
