@@ -19,7 +19,7 @@ Run the tests in docker using
 
 ```
 docker build . -t response:test
-docker run -it
+docker run -it response:test
 ```
 
 # Try it out
