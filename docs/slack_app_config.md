@@ -30,7 +30,7 @@ In the Event Subscriptions page we need to configure the following:
 
 ## Configure interactive components
 
-- In the Interactive Components page, enable and set the URL to `https://<public-url>/slack/action`.
+- In the  Interactivity & Shortcuts page, enable and set the Request URL to `https://<public-url>/slack/action`.
 
 
 ## Reinstall App
